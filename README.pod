@@ -1,0 +1,30 @@
+
+=head1 NAME
+
+Hailo::UI::Mojolicious - A simple Mojolicious::Lite app for running a Hailo bot
+
+=head1 USAGE
+
+    $ morbo hailo-mojo.pl
+
+=head1 DESCRIPTION
+
+This is an extremely simple web interface to a Hailo AI bot.
+
+=head1 SEE ALSO
+
+=over 4
+
+=item L<Hailo> - The AI bot module responsible for the conversations
+
+=back
+
+=head1 AUTHOR
+
+Doug Bell <preaction@cpan.org>
+
+=head1 LICENSE
+
+The code is licensed under the same terms as Perl itself.
+
+The "ulysses.trn" file is used with permission from Project Gutenberg.
